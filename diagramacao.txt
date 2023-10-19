@@ -1,0 +1,9 @@
+            iPhone                 
+|----------------------------------|
+| - reprodutorMusical: ReprodutorMusical |
+| - aparelhoTelefonico: AparelhoTelefonico |
+| - navegadorInternet: NavegadorInternet |
+|----------------------------------|
+| + ReprodutorMusical getReprodutorMusical() |
+| + AparelhoTelefonico getAparelhoTelefonico() |
+| + NavegadorInternet getNavegadorInternet() |
